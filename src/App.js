@@ -14,7 +14,7 @@ function App() {
     <div className="App">
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/about" element={<About />} />
+        <Route path="growithpro.github.io/about" element={<About />} />
       </Routes>
     </div>
   );
